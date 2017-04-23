@@ -19,15 +19,15 @@ cursor: pointer;
 
 
 h1 {
-font-size: 15px;
+font-size: 20px;
 }
 
 h2 {
-font-size: 10px;
+font-size: 20px;
 }
 
 p {
-font-size: 8px;
+font-size: 15px;
 }
 
 ul {
@@ -37,7 +37,7 @@ list-style: none;
 
 .container {
 position: relative;
-max-width: 1200px;
+max-width: 1400px;
 height: 119px;
 width: 100%;
 margin: 0 auto;
@@ -49,7 +49,7 @@ border: 1px solid black;
 #header {
 margin: 0 auto;
 width: 100%;
-max-width: 1200px;
+max-width: 1400px;
 height: 119px;
 border: 1px solid red;
 background-color: white;
@@ -77,9 +77,6 @@ margin: -10px -17px 0 0;
 float: right;
 }
 
-.hassub {
-
-}
 
 #nav_1862808 ul {
 display: none;
@@ -122,12 +119,14 @@ padding: 0 17px;
 /* slider */
 .pageroot {
 width: 100%;
-height: 1000px;
+height: 1100px;
 border: 1px solid red;
 }
 
 .features {
+width: 1400px;
 height: 400px;
+margin: 0 auto;
 padding: 100px 0 0 0;
 border: 1px solid blue;
 }
@@ -142,7 +141,6 @@ margin-top: -220px;
 .features h1 {
 font-size: 50px;
 line-height: 60px;
-
 }
 
 .features p {
@@ -160,7 +158,6 @@ top: 0;
 left: 0;
 width: 100%;
 height: 100%;
-background: rgba(0,0,0,0.3);
 z-index: 400;
 }
 
@@ -190,7 +187,7 @@ height: 400px;
 
 .home-cols .container {
 max-width: 1400px;
-height: 400px;
+height: 500px;
 }
 
 
@@ -202,7 +199,7 @@ min-width: 10%;
 
 .row {
 max-width: 1300px;
-height: 360px;
+height: 500px;
 margin-left: auto;
 margin-right: auto;
 margin-top: 0;
@@ -235,6 +232,30 @@ margin-left: 6%;
 }
 
 
+a.button {
+width: 280px;
+height: 64px;
+background-color: grey;
+color: #FFF;
+font-size: 16px;
+font-weight: 500;
+line-height: 59px;
+padding: 0;
+text-transform: uppercase;
+letter-spacing: 3.5px;
+}
+
+a .button .red {
+background-color: red;
+}
+
+a .button .green {
+background-color: green;
+}
+
+a .button .green-light {
+background-color: blue;
+}
 
 
 
@@ -245,4 +266,64 @@ clear: both;
 background: #000;
 overflow: hidden;
 padding: 50px 0 34px;
+color: #fff;
+}
+
+
+
+
+
+.logo {
+width: 185px;
+height: 18px;
+display: block;
+cursor: pointer;
+background: url(../img/logo.png) no-repeat;
+float: left;
+margin-left: 40px;
+margin-top: 50px;
+}
+
+
+.copy {
+width: 200px;
+height: 70px;
+float: left;
+font-size: 20px;
+margin-left: 50px;
+margin-top: 25px;
+}
+
+.contacts {
+width: 200px;
+height: 70px;
+float: left;
+font-size: 20px;
+margin-left: 50px;
+margin-top: 25px;
+}
+
+.social {
+float:right;
+width: 300px;
+height: 70px;
+display: inline-block;
+
+}
+
+#footer .social li  {
+padding: 0;
+margin-left: 50px;
+list-style: none;
+float: left;
+height: 72px;
+width: 72px;
+}
+
+.social ul li .twitter {
+background-image: url('..img/logo/tw.png') no-repeat;
+}
+
+.linked-in {
+background-image: url(...img/logo/in.png) no-repeat;
 }
