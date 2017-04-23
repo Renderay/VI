@@ -1,0 +1,352 @@
+Uri: http://www.vistarmedia.com/
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\index.htm
+Content Type: text/html
+
+Uri: http://www.vistarmedia.com/StyleSheets/ModuleStyleSheets.css
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\StyleSheets\ModuleStyleSheets.css
+Content Type: text/css
+
+Uri: http://www.vistarmedia.com/css/foundation.min.css
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\css\foundation.min.css
+Content Type: text/css
+
+Uri: http://www.vistarmedia.com/css/style.css
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\css\style.css
+Content Type: text/css
+
+Uri: http://www.vistarmedia.com/solutions/digital-marketers
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\solutions\digital-marketers.htm
+Content Type: text/html
+
+Uri: http://www.vistarmedia.com/solutions/media-owners
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\solutions\media-owners.htm
+Content Type: text/html
+
+Uri: http://www.vistarmedia.com/solutions/ooh-specialists
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\solutions\ooh-specialists.htm
+Content Type: text/html
+
+Uri: http://www.vistarmedia.com/approach
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approach.htm
+Content Type: text/html
+
+Uri: http://www.vistarmedia.com/careers
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\careers.htm
+Content Type: text/html
+
+Uri: http://www.vistarmedia.com/about
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\about.htm
+Content Type: text/html
+
+Uri: http://www.vistarmedia.com/news
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\news.htm
+Content Type: text/html
+
+Uri: http://www.vistarmedia.com/js/vendor/modernizr.js
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\js\vendor\modernizr.js
+Content Type: application/x-javascript
+
+Uri: http://www.vistarmedia.com/CatalystScripts/Java_DynMenusSelectedCSS.js?vs=b2282.r507300-phase1
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\CatalystScripts\Java_DynMenusSelectedCSS.js
+Content Type: application/javascript
+
+Uri: http://www.vistarmedia.com/vid/header.mp4
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\vid\header.mp4
+Content Type: video/mp4
+
+Uri: http://www.vistarmedia.com/img/1.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\1.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/2.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\2.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/3.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\3.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/logo_ft.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\logo_ft.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/js/foundation.min.js
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\js\foundation.min.js
+Content Type: application/x-javascript
+
+Uri: http://www.vistarmedia.com/js/plugins.js
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\js\plugins.js
+Content Type: application/x-javascript
+
+Uri: http://www.vistarmedia.com/js/main.js
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\js\main.js
+Content Type: application/x-javascript
+
+Uri: http://www.vistarmedia.com/js/highlight.pack.js
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\js\highlight.pack.js
+Content Type: application/x-javascript
+
+Uri: http://www.vistarmedia.com/CatalystImages/shop_bg-browse-panel.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\CatalystImages\shop_bg-browse-panel.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/logo.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\logo.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/bg_features.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_features.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/bg_features5.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_features5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/ico_close2.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\ico_close2.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/bg_accordion_trigger.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_accordion_trigger.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/bg_map.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_map.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/bg_features7.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_features7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/bg_features6.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_features6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/ico_social.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\ico_social.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/fonts/proximanova-regular.eot
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\fonts\proximanova-regular.hxd
+Content Type: application/octet-stream
+
+Uri: http://www.vistarmedia.com/fonts/proximanova-regular.woff
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\fonts\proximanova-regular-1.hxd
+Content Type: application/octet-stream
+
+Uri: http://www.vistarmedia.com/fonts/proximanova-regular.ttf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\fonts\proximanova-regular-2.hxd
+Content Type: application/octet-stream
+
+Uri: http://www.vistarmedia.com/fonts/proximanova-regular.svg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\fonts\proximanova-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://www.vistarmedia.com/img/bg_menu_trigger.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_menu_trigger.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/ico_close.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\ico_close.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/bg_features2.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_features2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/4.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\4.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/5.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\5.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/6.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\6.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/7.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\7.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/8.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\8.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/9.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\9.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/bg_features4.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\bg_features4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/10.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\10.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/11.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\11.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/12.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\12.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/CatalystStyles/Box.css?vs=b2282.r507300-phase1
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\CatalystStyles\Box.css
+Content Type: text/css
+
+Uri: http://www.vistarmedia.com/approachdocs/2016 05 - Cross-Screen - Casual Dining (1).pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2016 05 - Cross-Screen - Casual Dining (1).pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2016 04 - DOOH - Airline (1).pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2016 04 - DOOH - Airline (1).pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2016 03 - Cross-Screen - New Product Launch (1).pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2016 03 - Cross-Screen - New Product Launch (1).pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2016 02 - DOOH - Apparel Retail.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2016 02 - DOOH - Apparel Retail.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2016 02 - DOOH - OTC.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2016 02 - DOOH - OTC.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 - DOOH - QSR.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 - DOOH - QSR.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 08 - DOOH - Education.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 08 - DOOH - Education.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2015 03 - DOOH - Retail (Apparel).pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2015 03 - DOOH - Retail (Apparel).pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2015 03 - Cross-Screen - Insurance.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2015 03 - Cross-Screen - Insurance.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2015 04 - DOOH - Retail (Big Box).pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2015 04 - DOOH - Retail (Big Box).pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2015 04 - Mobile - Gas Retailer.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2015 04 - Mobile - Gas Retailer.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2015 03 - DOOH -Telecom.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2015 03 - DOOH -Telecom.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/2015 01 - Cross-Screen - Telecom.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\2015 01 - Cross-Screen - Telecom.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/black_friday_infographic_vistarmedia.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\black_friday_infographic_vistarmedia.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/approachdocs/Approach to location.pdf
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\Approach to location.pdf
+Content Type: application/pdf
+
+Uri: http://www.vistarmedia.com/CatalystScripts/Java_Box.js?vs=b2282.r507300-phase1
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\CatalystScripts\Java_Box.js
+Content Type: application/javascript
+
+Uri: http://www.vistarmedia.com/approachdocs/BWW Q2.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\BWW Q2.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/Emirates 2016.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\Emirates 2016.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/Verizon Hum.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\Verizon Hum.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/Gap Q2 Case Study Preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\Gap Q2 Case Study Preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/Tylenol preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\Tylenol preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 04 - DOOH - QSR_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 04 - DOOH - QSR_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 08 - DOOH - Education_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 08 - DOOH - Education_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 03 - DOOH - Retail (Apparel)_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 03 - DOOH - Retail (Apparel)_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 03 - Cross-Screen - Insurance_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 03 - Cross-Screen - Insurance_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 04 - DOOH - Retail (Big Box)_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 04 - DOOH - Retail (Big Box)_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 04 - Mobile - Gas Retailer_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 04 - Mobile - Gas Retailer_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 03 - DOOH -Telecom_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 03 - DOOH -Telecom_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/2015 01 - Cross-Screen - Telecom_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\2015 01 - Cross-Screen - Telecom_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/Screen Shot 2015-05-02 at 7.10.07 PM.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\Screen Shot 2015-05-02 at 7.10.07 PM.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/approachdocs/thumbnails/Approach to location_preview.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\approachdocs\thumbnails\Approach to location_preview.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/16.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\16.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/17.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\17.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/18.jpg
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\18.jpg
+Content Type: image/jpeg
+
+Uri: http://www.vistarmedia.com/img/19.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\19.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/20.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\20.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/21.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\21.png
+Content Type: image/png
+
+Uri: http://www.vistarmedia.com/img/22.png
+File Name: C:\Users\Андрей\Desktop\Новая папка\www.vistarmedia.com\img\22.png
+Content Type: image/png
+
